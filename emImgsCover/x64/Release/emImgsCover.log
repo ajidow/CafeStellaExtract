@@ -1,8 +1,0 @@
-﻿  main.cpp
-D:\mainProjects\CoffeeStellaExtract\vsprojects\emimagesCover\emImgsCover\emImgsCover\main.cpp(57,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\mainProjects\CoffeeStellaExtract\vsprojects\emimagesCover\emImgsCover\emImgsCover\main.cpp(118,26): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-  正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 559 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  emImgsCover.vcxproj -> D:\mainProjects\CoffeeStellaExtract\vsprojects\emimagesCover\emImgsCover\x64\Release\emImgsCover.exe
