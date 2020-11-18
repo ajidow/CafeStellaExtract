@@ -1,0 +1,113 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)”处使用了该属性。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)”处使用了该属性。
+  main.cpp
+json_vc71_libmtd.lib(json_value.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+json_vc71_libmtd.lib(json_value.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+json_vc71_libmtd.lib(json_value.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+json_vc71_libmtd.lib(json_writer.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+json_vc71_libmtd.lib(json_writer.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xthrow.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xthrow.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(syserror.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(syserror.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(_tolower.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(_tolower.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xwctomb.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xwctomb.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(_toupper.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(_toupper.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(locale0.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(locale0.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(ios.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(ios.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(iomanip.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(iomanip.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(locale.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(locale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(iosptrs.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(iosptrs.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(winapinls.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(winapinls.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(wlocale.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(wlocale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xlocale.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xlocale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xstol.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xstol.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xstoul.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xstoul.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xstoll.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xstoll.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xstoull.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xstoull.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xlock.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xlock.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(winapisupp.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(winapisupp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xstrcoll.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xstrcoll.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xdateord.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xdateord.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xmbtowc.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xmbtowc.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xwcscoll.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xwcscoll.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xgetwctype.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xgetwctype.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xtowlower.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xtowlower.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xtowupper.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xtowupper.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xstrxfrm.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xstrxfrm.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(xmtx.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(xmtx.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(StlCompareStringW.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(StlCompareStringW.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+libcpmtd.lib(StlLCMapStringW.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(main.obj 中)
+libcpmtd.lib(StlLCMapStringW.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __invalid_parameter
+json_vc71_libmtd.lib(json_value.obj) : error LNK2001: 无法解析的外部符号 __invalid_parameter
+json_vc71_libmtd.lib(json_writer.obj) : error LNK2001: 无法解析的外部符号 __invalid_parameter
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __invalid_parameter
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __invalid_parameter
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+json_vc71_libmtd.lib(json_value.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+json_vc71_libmtd.lib(json_writer.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReport
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+json_vc71_libmtd.lib(json_writer.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+json_vc71_libmtd.lib(json_writer.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+json_vc71_libmtd.lib(json_writer.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: 无法解析的外部符号 __wcsdup_dbg
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: 无法解析的外部符号 __wcsdup_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __realloc_dbg
+D:\mainProjects\CoffeeStellaExtract\vsprojects\emimagesCover\emImgsCover\Release\emImgsCover.exe : fatal error LNK1120: 8 个无法解析的外部命令
